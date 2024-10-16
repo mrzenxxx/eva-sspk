@@ -64,6 +64,6 @@
     @apply border-border;
   }
   body {
-    @apply bg-background text-foreground w-full min-h-[100vh] h-full flex flex-col items-center justify-center;
+    @apply bg-background text-foreground w-full min-h-[100vh] flex flex-col items-center justify-center;
   }
 }
